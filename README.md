@@ -16,6 +16,8 @@ A deep learning project that classifies food images across **101 categories** us
 **F1 Score (Weighted):** 83.13%  
 **vs DeepFood baseline:** +5.83%
 
+![Per Class F1](per_class_f1.png)
+![Confused Pairs](confused_pairs.png)
 ---
 
 ## Approach
